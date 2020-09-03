@@ -82,7 +82,7 @@ for(let c = 0; c < cor.length; c ++) {
 //#############################################################
 
 //Falta ajustes na saída
-
+/*
 let alunos = l_names.length;//gets();
 let dadosAlunos = [];
 
@@ -127,6 +127,6 @@ let dadosOrdenados = dadosAlunos.sort((a, b) => {
 });
 
 dadosOrdenados.map(aluno => console.log(aluno.cor, aluno.tamanho, aluno.nome));
-
+*/
 
 
